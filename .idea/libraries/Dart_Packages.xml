@@ -163,6 +163,13 @@
             </list>
           </value>
         </entry>
+        <entry key="workmanager">
+          <value>
+            <list>
+              <option value="$USER_HOME$/flutterSDK/.pub-cache/hosted/pub.dartlang.org/workmanager-0.5.1/lib" />
+            </list>
+          </value>
+        </entry>
       </option>
     </properties>
     <CLASSES>
@@ -186,6 +193,7 @@
       <root url="file://$USER_HOME$/flutterSDK/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.1/lib" />
       <root url="file://$USER_HOME$/flutterSDK/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.12/lib" />
       <root url="file://$USER_HOME$/flutterSDK/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.2/lib" />
+      <root url="file://$USER_HOME$/flutterSDK/.pub-cache/hosted/pub.dartlang.org/workmanager-0.5.1/lib" />
       <root url="file://$USER_HOME$/flutterSDK/bin/cache/pkg/sky_engine/lib" />
       <root url="file://$USER_HOME$/flutterSDK/packages/flutter/lib" />
       <root url="file://$USER_HOME$/flutterSDK/packages/flutter_test/lib" />

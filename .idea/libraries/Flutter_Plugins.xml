@@ -1,6 +1,8 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
-    <CLASSES />
+    <CLASSES>
+      <root url="file://$USER_HOME$/flutterSDK/.pub-cache/hosted/pub.dartlang.org/workmanager-0.5.1" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
